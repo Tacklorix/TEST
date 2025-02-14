@@ -1,4 +1,7 @@
+import os
 from colorama import Fore
+
+os.system("clear")
 
 print(Fore.YELLOW+"""
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀
